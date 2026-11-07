@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskPilot</string>
+    <string name="tagline">Your Phone. Your Instructions. Your AI Agent.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_activity">Activity</string>
+    <string name="nav_settings">Settings</string>
+</resources>

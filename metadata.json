@@ -1,0 +1,6 @@
+{
+  "name": "TaskPilot",
+  "description": "AI Personal Agent for Android that plans and executes real device tasks from natural language instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
